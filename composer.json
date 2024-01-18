@@ -1,5 +1,5 @@
 {
-    "name": "mark-gerarts/automapper-plus-bundle",
+    "name": "mark-gerarts-temp/automapper-plus-bundle",
     "description": "A Symfony bundle for AutoMapper+",
     "type": "symfony-bundle",
     "keywords": ["AutoMapper", "Bundle"],
